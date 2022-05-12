@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Taskify: to keep a track
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+<img src="/src/assets/screenshots/1.png"/>
+<img style="height: 500px" src="/src/assets/screenshots/2.png"/>
+<img style="height: 500px" src="/src/assets/screenshots/3.png"/>
+<img style="height: 500px" src="/src/assets/screenshots/4.png"/>
+
 
 ## Available Scripts
 
